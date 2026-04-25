@@ -4,7 +4,7 @@ I'm a Senior Data Analyst with 6+ years of experience specialized in building sc
 > **Pronunciation Guide:** "KEY-er-sten" (pronounced **Keer** like **Clear** ✨)
 
 ### Professional Snapshot
-* **Professional SnapshotProduct-Focused Analytics:** I partner with stakeholders to transform complex problems into KPIs and data products used by 400+ internal and client users.
+* **Product-Focused Analytics:** I partner with stakeholders to transform complex problems into KPIs and data products used by 400+ internal and client users.
 * **End-to-End Ownership:** I lead initiatives from raw exploration through production-ready deployment, including a gradient-boosted forecasting model with a ±1.8% error rate that guided high-stakes investment and risk management.
 * **Purposeful Storytelling:** I bridge the gap between technical analysis and business context, enabling strategic alignment for audiences ranging from C-suite executives to cross-functional teams.
 
