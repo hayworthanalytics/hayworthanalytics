@@ -1,12 +1,12 @@
 ## Hello and welcome! I'm Kyrsten.
-I am a **Senior Data Analyst**. With over six years of experience delivering data-driven insights across fintech, marketing, and product analytics, I specialize in translating ambiguous business challenges into scalable and value-driven solutions that empower leaders to make decisions with confidence and enthusiasm.
+I'm a Senior Data Analyst with 6+ years of experience specialized in building scalable data products and predictive models. My expertise lies in translating ambiguous business challenges into value-driven solutions that empower leaders to make decisions with both clarity and confidence.
 
 > **Pronunciation Guide:** "KEY-er-sten" (pronounced **Keer** like **Clear** ✨)
 
 ### Professional Snapshot
-* **Product-focused analytics:** Partners with stakeholders to translate ambiguous problems into KPIs and data products used by 400+ users.
-* **End-to-end ownership:** Leads initiatives from exploration through deployment, including platforms that informed partnership deals.
-* **Purposeful storytelling:** Connects analyses to business context, enabling alignment and decision-making for stakeholders ranging from C-suite to technical and non-technical teams.
+* **Professional SnapshotProduct-Focused Analytics:** I partner with stakeholders to transform complex problems into KPIs and data products used by 400+ internal and client users.
+* **End-to-End Ownership:** I lead initiatives from raw exploration through production-ready deployment, including a gradient-boosted forecasting model with a ±1.8% error rate that guided high-stakes investment and risk management.
+* **Purposeful Storytelling:** I bridge the gap between technical analysis and business context, enabling strategic alignment for audiences ranging from C-suite executives to cross-functional teams.
 
 ### Technical Toolbox
 | Category | Tools & Technologies |
