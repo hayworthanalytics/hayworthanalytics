@@ -2,6 +2,7 @@
 I am a **Senior Data Analyst** specialized in building scalable data products and predictive models that turn ambiguous business problems into clear, actionable strategy.
 
 > **Pronunciation Guide:** "KEY-er-sten (pronounced **Keer** like **Clear** ✨)
+
 > Pronouns: She/Her
 
 ### Professional Snapshot
