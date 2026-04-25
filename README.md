@@ -1,17 +1,24 @@
-## Hello and welcome! My name is Kyrsten (pronounced **Keer** like **Clear** ✨)
+## Hello and welcome! I'm Kyrsten.
+I am a **Senior Data Analyst** specialized in building scalable data products and predictive models that turn ambiguous business problems into clear, actionable strategy.
 
-### 💼 Professional Snapshot
-I am a **Senior Data Analyst** with 6+ years of experience specialized in building scalable data products and predictive models. 
-I’m known for:
-* **Product-focused analytics:** Partners with stakeholders to translate ambiguous business problems into structured analyses, KPIs, and data products that drive strategy and roadmaps
-* **End-to-end ownership:** Leads initiatives from data exploration through deployment and adoption, ensuring solutions are reliable and production-ready
-* **Purposeful storytelling:** Connects analyses to business context, enabling alignment and decision-making across technical and non-technical teams
+> **Pronunciation Guide:** "KEY-er-sten (pronounced **Keer** like **Clear** ✨.
 
-### SKILLS
-*	**Programming & Data Analysis:** SQL, Python (pandas, NumPy, scikit-learn, EDA)
-*	**Cloud & Data Platforms:** Google Cloud (BigQuery, Vertex AI), AWS (Athena, Sagemaker), Git
-*	**Visualization & Reporting:** Tableau, Looker, Domo, Excel/VBA, Google Sheets/Apps Script
-*	**Certifications:** Tableau Desktop Specialist Certification, AWS Certified Cloud Practitioner
+### Professional Snapshot
+With over 6 years of experience sacross the marketing and investment sectors, I’m known for:
+* **Product-focused analytics:** Partnering with stakeholders to translate ambiguous problems into KPIs and data products used by 400+ users.
+* **End-to-end ownership:** Leading initiatives from exploration through deployment, including platforms that informed partnership deals.
+* **Purposeful storytelling:** Connecting analyses to business context, enabling alignment and decision-making for technical and non-technical teams.
+
+### Technical Toolbox
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Languages** | Python (Pandas, NumPy, Scikit-learn), SQL, VBA, Google Apps Script |
+| **Cloud & Data** | AWS (Athena, Sagemaker), Google Cloud (BigQuery, Vertex AI), Airflow, Git |
+| **Visualization** | Tableau (Certified Specialist), Domo, Looker, Google Sheets |
+| **Certifications** | **AWS Certified Cloud Practitioner**, **Tableau Desktop Specialist** |
+
+### Current Project: Board Game Insights
+I'm currently working on a board game analysis based on data from Board Game Geek. Please check it out and visit for updates!
 
 
 <!--
