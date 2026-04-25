@@ -1,7 +1,7 @@
 ## Hello and welcome! I'm Kyrsten.
 I am a **Senior Data Analyst** specialized in building scalable data products and predictive models that turn ambiguous business problems into clear, actionable strategy.
 
-> **Pronunciation Guide:** "KEY-er-sten (pronounced **Keer** like **Clear** ✨)
+> **Pronunciation Guide:** "KEY-er-sten" (pronounced **Keer** like **Clear** ✨)
 
 ### Professional Snapshot
 With over 6 years of experience sacross the marketing and investment sectors, I’m known for:
