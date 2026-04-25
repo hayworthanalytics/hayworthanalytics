@@ -3,8 +3,6 @@ I am a **Senior Data Analyst** specialized in building scalable data products an
 
 > **Pronunciation Guide:** "KEY-er-sten (pronounced **Keer** like **Clear** ✨)
 
-> Pronouns: She/Her
-
 ### Professional Snapshot
 With over 6 years of experience sacross the marketing and investment sectors, I’m known for:
 * **Product-focused analytics:** Partnering with stakeholders to translate ambiguous problems into KPIs and data products used by 400+ users.
