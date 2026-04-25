@@ -17,7 +17,7 @@ With over 6 years of experience sacross the marketing and investment sectors, Iâ
 | **Visualization** | Tableau (Certified Specialist), Domo, Looker, Google Sheets |
 | **Certifications** | **AWS Certified Cloud Practitioner**, **Tableau Desktop Specialist** |
 
-### Current Project: Board Game Insights
+### Current Project: [Board Game Insights](https://github.com/hayworthanalytics/board-game-insights)
 I'm currently working on a board game analysis based on data from Board Game Geek. Please check it out and visit for updates!
 
 
