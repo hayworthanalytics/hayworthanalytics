@@ -12,7 +12,7 @@ I'm a Senior Data Analyst with 6+ years of experience specialized in building sc
 | Category | Tools & Technologies |
 | :--- | :--- |
 | **Languages** | Python (Pandas, NumPy, Scikit-learn), SQL, VBA, Google Apps Script |
-| **Cloud & Data** | AWS (Athena, Sagemaker), Google Cloud (BigQuery, Vertex AI), Airflow, Git |
+| **Cloud & Data** | AWS (Athena, Sagemaker), Google Cloud (BigQuery, Vertex AI), Git |
 | **Visualization** | Tableau (Certified Specialist), Domo, Looker, Google Sheets |
 | **Certifications** | **AWS Certified Cloud Practitioner**, **Tableau Desktop Specialist** |
 
