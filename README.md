@@ -5,7 +5,6 @@ Whether I’m streamlining workflows to reduce bottlenecks for analysts or craft
 
 > **Pronunciation Guide:** "KEY-er-sten" (pronounced **Keer** like **Clear** ✨)
 
-*   
 ### Technical Toolbox
 | Category | Tools & Technologies |
 | :--- | :--- |
