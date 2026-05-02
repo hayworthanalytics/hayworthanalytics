@@ -1,7 +1,7 @@
 ## Hello and welcome! I'm Kyrsten.
-I'm a **Senior Data Analyst** with 6+ years of experience across the full data lifecycle. I specialize in developing scalable solutions that bridge the gap between **technical rigor and purposeful storytelling.** 
+I'm a Senior Data Analyst with 6+ years of experience across the full data lifecycle. I specialize in developing scalable solutions that bridge the gap between technical rigor and purposeful storytelling.
 
-Whether I’m streamlining workflows to reduce bottlenecks for analysts or crafting intuitive visual insights for stakeholders, my mission is to empower people at every level of the **data-to-decision pipeline.**
+Whether I’m streamlining workflows to reduce bottlenecks for analysts or crafting intuitive visual insights for stakeholders, my mission is to empower people at every level of the data-to-decision pipeline.
 
 > **Pronunciation Guide:** "KEY-er-sten" (pronounced **Keer** like **Clear** ✨)
 
