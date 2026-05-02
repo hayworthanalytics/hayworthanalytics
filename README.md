@@ -17,7 +17,8 @@ Whether I’m streamlining workflows to reduce bottlenecks for analysts or craft
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white) ![Looker](https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=Looker&logoColor=white) ![Domo](https://img.shields.io/badge/Domo-00ADEF?style=for-the-badge&logoColor=white) ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
 
 * **Certifications:**
-**AWS Certified Cloud Practitioner** | **Tableau Desktop Specialist**
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) Certified Cloud Practitioner
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white) Desktop Specialist**
 
 ### Current Project: [Board Game Insights](https://github.com/hayworthanalytics/board-game-insights)
 I'm currently working on a board game analysis based on data from Board Game Geek. Please check it out and visit for updates!
