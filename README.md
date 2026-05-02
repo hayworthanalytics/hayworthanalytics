@@ -5,7 +5,7 @@ Whether I’m streamlining workflows to reduce bottlenecks for analysts or craft
 
 > **Name Pronunciation Guide:** "KEY-er-sten" (pronounced **Keer** like **Clear** ✨)
 
-### Technical Toolbox
+### Technical Toolbox:
 
 **Languages & Frameworks:**  
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![SQL](https://img.shields.io/badge/sql-003B57?style=for-the-badge&logo=postgresql&logoColor=white) ![VBA](https://img.shields.io/badge/VBA-%23217346.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![Google Apps Script](https://img.shields.io/badge/Google%20Apps%20Script-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
